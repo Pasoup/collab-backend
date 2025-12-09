@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node node_modules/y-websocket/bin/server.js"
+    "start": "npx y-websocket"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "y-websocket": "^3.0.0"
+    "y-websocket": "latest"
   }
 }
